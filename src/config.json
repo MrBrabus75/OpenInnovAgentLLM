@@ -2,7 +2,7 @@
     "API_TYPE": "open_ai",
     "API_base": "https://api.openai.com/v1",
     "API_VERSION": null,
-    "API_KEY": "sk-proj-lEhUGYdzIhXUURbeTrViT3BlbkFJ2goa717ewMvxeY0FRMSG",
+    "API_KEY": "<<Clé Open API>>",
     "model": {
       "GPT-3.5": {
         "model_name": "gpt-3.5-turbo-0125",
